@@ -1,0 +1,2 @@
+id_da_conta_de_anuncios
+token
